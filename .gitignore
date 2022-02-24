@@ -1,0 +1,7 @@
+venv/
+.env
+settings.py
+file_21_02_2022_21:26.html
+data/
+__pycache__
+.sh
